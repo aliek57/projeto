@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+body {
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+}
+
+.container1 {
+    background-color: rgba(238, 223, 206, 255);
+    padding-bottom: 10%;
+}
+
+#title {
+    font-size: 5.5em;
+    color: rgb(231, 72, 27);
+    font-family: 'Prata', serif;
+}
+
+#logo {
+    width: 100px;
+}
+
+.container2 {
+    background-color: rgba(238, 231, 221, 255);
+    padding-bottom: 10%;
+}
+
+#photo {
+    width: 200px;
+    margin-top: -100px;
+}
+
+#turtle {
+    width: 50px;
+}
+
+#container-turtle {
+    margin-top: 9%;
+}
+
+.titlesm {
+    font-size: 2em;
+    color: rgb(231, 72, 27);
+    font-family: 'Prata', serif;
+    margin: 15% 0 0 15%;
+}
+
+.text {
+    font-size: 0.9em;
+    margin: 5% 0 0 15%;
+}
+
+.container3 {
+    background-color: rgba(238, 231, 221, 255);
+}
+
+.container4 {
+    background-color: rgba(238, 223, 206, 255);
+}
+
+.container5 {
+    background-color: rgba(238, 231, 221, 255);
+}
+
+.container6 {
+    background-color: rgba(238, 231, 221, 255);
+}
