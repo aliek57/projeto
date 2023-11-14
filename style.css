@@ -5,6 +5,9 @@ body {
     margin: 0;
 }
 
+
+/*PARTE 1 - Linda Eliasen*/
+
 .container1 {
     background-color: rgba(238, 223, 206, 255);
     padding-bottom: 10%;
@@ -19,6 +22,9 @@ body {
 #logo {
     width: 100px;
 }
+
+
+/*PARTE 2 - Hello*/
 
 .container2 {
     background-color: rgba(238, 231, 221, 255);
@@ -49,6 +55,9 @@ body {
     font-size: 0.9em;
     margin: 5% 0 0 15%;
 }
+
+
+/*PARTE 3 - Menu e Imagens*/
 
 .container3 {
     background-color: rgba(238, 231, 221, 255);
@@ -101,13 +110,47 @@ body {
     font-size: 1.25em;
 }
 
+
+/*PARTE 4 - Things I do*/
+
 .container4 {
     background-color: rgba(238, 223, 206, 255);
 }
 
+#shine {
+    width: 60px;
+}
+
+#panda {
+    width: 40px;
+}
+
+
+/*PARTE 5 - What I'm up to*/
+
 .container5 {
     background-color: rgba(238, 231, 221, 255);
 }
+
+#linda {
+    width: 200px;
+    margin: -100px;
+}
+
+.subtitle {
+    color: blue;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    margin: 5% 0 0 15%;
+}
+
+.txt {
+    font-size: 0.9em;
+    margin: 1% 0 0 15%;
+}
+
+
+/*PARTE 6 - navbar*/
 
 .container6 {
     background-color: rgba(238, 231, 221, 255);
