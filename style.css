@@ -64,13 +64,13 @@ body {
 }
 
 .btn>img {
-    width: 180px;
+    width: 200px;
 }
 
 .btn {
     margin: 0.5% 0;
-    padding: 3%;
-    border-radius: 20px;
+    padding: 5.5%;
+    border-radius: 45px;
 }
 
 #selected {
@@ -115,6 +115,7 @@ body {
 
 .container4 {
     background-color: rgba(238, 223, 206, 255);
+    padding-bottom: 10%;
 }
 
 #shine {
@@ -134,7 +135,7 @@ body {
 
 #linda {
     width: 300px;
-    margin: -100px;
+    margin: -75px;
 }
 
 .subtitle {
