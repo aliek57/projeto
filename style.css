@@ -54,6 +54,53 @@ body {
     background-color: rgba(238, 231, 221, 255);
 }
 
+.btn>img {
+    width: 130px;
+}
+
+.btn {
+    margin: 0.5% 0;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+#selected {
+    background-color: #F2F2F2;
+}
+
+.menu {
+    height: 100%;
+}
+
+#pg {
+    margin-top: -10%;
+}
+
+#global {
+    width: 100px;
+}
+
+#penguin {
+    width: 180px;
+}
+
+#blue {
+    width: 240px;
+}
+
+#bird {
+    width: 300px;
+}
+
+#chat {
+    width: 180px;
+}
+
+.stxt {
+    color: rgb(231, 72, 27);
+    font-size: 1.25em;
+}
+
 .container4 {
     background-color: rgba(238, 223, 206, 255);
 }
