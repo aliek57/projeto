@@ -14,7 +14,7 @@ body {
 }
 
 #title {
-    font-size: 5.5em;
+    font-size: 6em;
     color: rgb(231, 72, 27);
     font-family: 'Prata', serif;
 }
@@ -32,12 +32,12 @@ body {
 }
 
 #photo {
-    width: 200px;
+    width: 250px;
     margin-top: -100px;
 }
 
 #turtle {
-    width: 50px;
+    width: 65px;
 }
 
 #container-turtle {
@@ -45,14 +45,14 @@ body {
 }
 
 .titlesm {
-    font-size: 2em;
+    font-size: 3em;
     color: rgb(231, 72, 27);
     font-family: 'Prata', serif;
     margin: 15% 0 0 15%;
 }
 
 .text {
-    font-size: 0.9em;
+    font-size: 1.1em;
     margin: 5% 0 0 15%;
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .btn>img {
-    width: 130px;
+    width: 180px;
 }
 
 .btn {
@@ -86,28 +86,28 @@ body {
 }
 
 #global {
-    width: 100px;
+    width: 150px;
 }
 
 #penguin {
-    width: 180px;
+    width: 280px;
 }
 
 #blue {
-    width: 240px;
+    width: 350px;
 }
 
 #bird {
-    width: 300px;
+    width: 400px;
 }
 
 #chat {
-    width: 180px;
+    width: 230px;
 }
 
 .stxt {
     color: rgb(231, 72, 27);
-    font-size: 1.25em;
+    font-size: 1.5em;
 }
 
 
@@ -118,11 +118,11 @@ body {
 }
 
 #shine {
-    width: 60px;
+    width: 85px;
 }
 
 #panda {
-    width: 40px;
+    width: 65px;
 }
 
 
@@ -133,7 +133,7 @@ body {
 }
 
 #linda {
-    width: 200px;
+    width: 300px;
     margin: -100px;
 }
 
@@ -145,7 +145,6 @@ body {
 }
 
 .txt {
-    font-size: 0.9em;
     margin: 1% 0 0 15%;
 }
 
