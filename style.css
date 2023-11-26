@@ -49,6 +49,7 @@ body {
     color: rgb(231, 72, 27);
     font-family: 'Prata', serif;
     margin: 15% 0 0 15%;
+    width: 50%;
 }
 
 .text {
@@ -118,12 +119,20 @@ body {
     padding-bottom: 10%;
 }
 
+#tid {
+    margin-left: 25%;
+}
+
 #shine {
     width: 85px;
+    margin-top: 180%;
+    margin-left: 15px;
 }
 
 #panda {
     width: 65px;
+    margin-top: 45%;
+    margin-left: 50%;
 }
 
 
@@ -133,13 +142,18 @@ body {
     background-color: rgba(238, 231, 221, 255);
 }
 
+#wiut {
+    margin-left: 1px;
+}
+
 #linda {
     width: 300px;
     margin: -75px;
+    margin-left: 5px;
 }
 
 .subtitle {
-    color: blue;
+    color: rgba(110, 141, 184, 255);
     text-transform: uppercase;
     font-size: 0.9em;
     margin: 5% 0 0 15%;
@@ -149,9 +163,24 @@ body {
     margin: 1% 0 0 15%;
 }
 
+#highlight {
+    font-weight: bold;
+    color: rgb(231, 72, 27);
+}
+
 
 /*PARTE 6 - navbar*/
 
 .container6 {
     background-color: rgba(238, 231, 221, 255);
+}
+
+#footer {
+    color: rgba(110, 141, 184, 255);
+    text-transform: uppercase;
+}
+
+#footer>div:hover {
+    cursor: pointer;
+    font-weight: bold;
 }
